@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="429355" started-at="2020-04-22T11:55:36Z" finished-at="2020-04-22T12:02:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="429355" started-at="2020-04-22T11:55:36Z" finished-at="2020-04-22T12:02:46Z">
+      <class name="com.assignment.appium.test.TestClass">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:com.assignment.appium.test.TestClass@48e4374]" name="setupDriver" is-config="true" duration-ms="308145" started-at="2020-04-22T11:55:36Z" finished-at="2020-04-22T12:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="resetApp()[pri:0, instance:com.assignment.appium.test.TestClass@48e4374]" name="resetApp" is-config="true" duration-ms="31689" started-at="2020-04-22T12:00:45Z" finished-at="2020-04-22T12:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method status="PASS" signature="basicTest()[pri:0, instance:com.assignment.appium.test.TestClass@48e4374]" name="basicTest" duration-ms="66938" started-at="2020-04-22T12:01:16Z" finished-at="2020-04-22T12:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.appium.test.TestClass@48e4374]" name="teardown" is-config="true" duration-ms="22497" started-at="2020-04-22T12:02:23Z" finished-at="2020-04-22T12:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.appium.test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
